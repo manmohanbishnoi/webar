@@ -12,7 +12,7 @@
   "author": "Manmohan Bishnoi",
   "license": "ISC",
   "dependencies": {
-    "@google/model-viewer": "^0.6.0",
+    "@google/model-viewer": "^3.1.1",
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "fullscreen-polyfill": "^1.0.2",
     "intersection-observer": "^0.7.0",
